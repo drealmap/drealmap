@@ -2,7 +2,7 @@
 
 ### Transitioned into Tech from Animal Science
 #### 🔭 I’m currently working on my portfolio website
-#### 🌱 I’m learning Typescript at the moment
+#### 🌱 I’m learning Next at the moment
 #### 👯 I’m looking to collaborate on open source projects
 #### 💬 Ask me about : frontend development
 #### ⚡ Fun fact: Aside coding, I play games
@@ -22,6 +22,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
   
   
   
@@ -32,4 +33,5 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Click Up](https://img.shields.io/badge/ClickUp-lightgreen?style=for-the-badge&logo=Postman&logoColor=white)
 
