@@ -62,7 +62,7 @@
    <h2 align="left">💬 Let's Connect</h2>
 <p align="left">
 <a href="https://twitter.com/drealmap="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linuxdotexe_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/michael-adejumo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-adejumo-687922209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael="30" width="40" /></a>
 
 </p>
 
