@@ -12,7 +12,7 @@
 
 ### Transitioned into Tech from Animal Science
 +  🔭 I’m currently working on my portfolio website, Open to Frontend Engineer roles
-+ 🌱 I’m learning Next at the moment
++ 🌱 I’m learning more TypeScript at the moment
 + 👯 I contribute to open source projects
 + 💬 Ask me about : frontend development
 + ⚡ Fun fact: Aside coding, I play games
